@@ -13,9 +13,9 @@ export const About = () => {
 
       <div className="container about__container">
         <div className="about__me">
-        <div className="about__me-image">
-          <img src={ME} alt="About image" />
-        </div>
+          <div className="about__me-image">
+            <img src={ME} alt="About image" />
+          </div>
         </div>
 
         <div className="about__content">
@@ -44,7 +44,9 @@ export const About = () => {
             rerum fugit magnam enim officia vero blanditiis libero eos
             laboriosam magni repellendus. Minima.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
