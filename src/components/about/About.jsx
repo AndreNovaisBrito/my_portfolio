@@ -26,23 +26,22 @@ export const About = () => {
               <small>1 Year Working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>200+ Worldwide</small>
-            </article>
+            </article> */}
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere
-            impedit nam, non veritatis ullam, consequuntur dolor, reiciendis
-            rerum fugit magnam enim officia vero blanditiis libero eos
-            laboriosam magni repellendus. Minima.
+          Bachelor's degree in Computer Science from the Federal University of Ceará.
+          Studying and implementing the most widely used technologies currently, Back-end focused.
+          Seeking software developer opportunities in the UK with sponsorship for a Tier 2 (General) skilled worker visa.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
