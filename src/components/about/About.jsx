@@ -41,7 +41,6 @@ export const About = () => {
           <p>
           Bachelor's degree in Computer Science from the Federal University of Ceará.
           Studying and implementing the most widely used technologies currently, Back-end focused.
-          Seeking software developer opportunities in the UK with sponsorship for a Tier 2 (General) skilled worker visa.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
