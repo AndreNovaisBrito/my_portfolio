@@ -1,8 +1,8 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.png";
-// import IMG2 from "../../assets/portfolio2.png";
-// import IMG3 from "../../assets/portfolio3.png";
+import IMG1 from "../../assets/Project Thumbnails/SortingVisualiser.png";
+import IMG2 from "../../assets/Project Thumbnails/MyPortfolio.png";
+import IMG3 from "../../assets/Project Thumbnails/TicTacToe.png";
 // import IMG4 from "../../assets/portfolio4.png";
 // import IMG5 from "../../assets/portfolio5.png";
 
@@ -10,45 +10,45 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
+    title: "Sorting Visualiser",
+    github: "https://github.com/AndreNovaisBrito/SortingVisualizer",
+    demo: "https://andrenovaisbrito.github.io/SortingVisualizer/",
   },
   {
     id: 2,
-    image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
+    image: IMG2,
+    title: "Portfolio",
+    github: "https://github.com/AndreNovaisBrito/my_portfolio",
+    demo: "https://andrenovaisbrito.github.io/my_portfolio/",
   },
   {
     id: 3,
-    image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
+    image: IMG3,
+    title: "TicTacToe",
+    github: "https://github.com/AndreNovaisBrito/TicTacToe",
+    demo: "https://andrenovaisbrito.github.io/TicTacToe/",
   },
-  {
-    id: 4,
-    image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 5,
-    image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
-  {
-    id: 6,
-    image: IMG1,
-    title: "Project 1",
-    github: "https://github.com",
-    demo: "https://github.com",
-  },
+  // {
+  //   id: 4,
+  //   image: IMG1,
+  //   title: "Project 1",
+  //   github: "https://github.com",
+  //   demo: "https://github.com",
+  // },
+  // {
+  //   id: 5,
+  //   image: IMG1,
+  //   title: "Project 1",
+  //   github: "https://github.com",
+  //   demo: "https://github.com",
+  // },
+  // {
+  //   id: 6,
+  //   image: IMG1,
+  //   title: "Project 1",
+  //   github: "https://github.com",
+  //   demo: "https://github.com",
+  // },
 ];
 const Portfolio = () => {
   return (
