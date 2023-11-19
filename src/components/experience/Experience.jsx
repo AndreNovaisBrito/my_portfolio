@@ -12,50 +12,50 @@ const Experience = () => {
           <h3>Front-End Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>BootStrap</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JQuery</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
           </div>
@@ -65,50 +65,64 @@ const Experience = () => {
           <h3>Back-End Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Javascript</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>TypeScript</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Python</h4>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Node</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>PostGreSQL</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>MongoDB</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
 
             <article className="experience__details">
-              <BsFillPatchCheckFill className='experience__details-icon' />
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Docker</h4>
-                <small className="text-light">Basic</small>
+                {/* <small className="text-light">Basic</small> */}
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>GitHub</h4>
+                {/* <small className="text-light">Basic</small> */}
               </div>
             </article>
           </div>
