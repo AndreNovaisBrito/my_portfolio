@@ -3,6 +3,10 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Project Thumbnails/SortingVisualiser.png";
 import IMG2 from "../../assets/Project Thumbnails/MyPortfolio.png";
 import IMG3 from "../../assets/Project Thumbnails/TicTacToe.png";
+import IMG4 from "../../assets/Project Thumbnails/Telegram bot.png";
+import IMG5 from "../../assets/Project Thumbnails/URL Shortener.png";
+import IMG6 from "../../assets/Project Thumbnails/Exercise tracker.png";
+
 // import IMG4 from "../../assets/portfolio4.png";
 // import IMG5 from "../../assets/portfolio5.png";
 
@@ -28,27 +32,29 @@ const data = [
     github: "https://github.com/AndreNovaisBrito/TicTacToe",
     demo: "https://andrenovaisbrito.github.io/TicTacToe/",
   },
-  // {
-  //   id: 4,
-  //   image: IMG1,
-  //   title: "Project 1",
-  //   github: "https://github.com",
-  //   demo: "https://github.com",
-  // },
-  // {
-  //   id: 5,
-  //   image: IMG1,
-  //   title: "Project 1",
-  //   github: "https://github.com",
-  //   demo: "https://github.com",
-  // },
-  // {
-  //   id: 6,
-  //   image: IMG1,
-  //   title: "Project 1",
-  //   github: "https://github.com",
-  //   demo: "https://github.com",
-  // },
+  {
+    id: 4,
+    image: IMG4,
+    title: "Telegram Bot",
+    github: "https://github.com/AndreNovaisBrito/Productive-Notifications",
+    demo: "https://t.me/JustLetMeCreateaBot",
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: "Url Shortener API",
+    github:
+      "https://replit.com/@AndreNovaisBrit/boilerplate-project-urlshortener#index.js",
+    demo: "https://replit.com/@AndreNovaisBrit/boilerplate-project-urlshortener",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Exercise Tracker API",
+    github:
+      "https://replit.com/@AndreNovaisBrit/boilerplate-project-urlshortener",
+    demo: "https://replit.com/@AndreNovaisBrit/boilerplate-project-urlshortener",
+  },
 ];
 const Portfolio = () => {
   return (
