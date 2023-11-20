@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.e2cbd3d8.css",
-    "main.js": "/my_portfolio/static/js/main.dd925bf7.js",
+    "main.css": "/my_portfolio/static/css/main.b936574e.css",
+    "main.js": "/my_portfolio/static/js/main.c2fa5e41.js",
     "static/media/MyPortfolio.png": "/my_portfolio/static/media/MyPortfolio.1e150b0f638ca5f3bdc3.png",
-    "static/media/me.png": "/my_portfolio/static/media/me.aa4ef8d2725cfc782f19.png",
     "static/media/CV.pdf": "/my_portfolio/static/media/CV.16faba59e881294726a0.pdf",
     "static/media/me-about.jpg": "/my_portfolio/static/media/me-about.d2ce775e3b4595798f4f.jpg",
-    "static/media/Brasaoufc_horizontal.png": "/my_portfolio/static/media/Brasaoufc_horizontal.cfc900ee80ebf2ac6d87.png",
+    "static/media/Telegram bot.png": "/my_portfolio/static/media/Telegram bot.66393c8cb82cbca82186.png",
+    "static/media/Brasaoufc.png": "/my_portfolio/static/media/Brasaoufc.1077797c73db486848d6.png",
+    "static/media/Exercise tracker.png": "/my_portfolio/static/media/Exercise tracker.b150ddf63af836963888.png",
     "index.html": "/my_portfolio/index.html",
-    "main.e2cbd3d8.css.map": "/my_portfolio/static/css/main.e2cbd3d8.css.map",
-    "main.dd925bf7.js.map": "/my_portfolio/static/js/main.dd925bf7.js.map"
+    "main.b936574e.css.map": "/my_portfolio/static/css/main.b936574e.css.map",
+    "main.c2fa5e41.js.map": "/my_portfolio/static/js/main.c2fa5e41.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2cbd3d8.css",
-    "static/js/main.dd925bf7.js"
+    "static/css/main.b936574e.css",
+    "static/js/main.c2fa5e41.js"
   ]
 }
